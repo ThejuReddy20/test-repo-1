@@ -1,3 +1,5 @@
 # test-repo-1
 testing and exploring git
-cmds to readme
+
+stage 1 - Git commands :-
+cmd follows
