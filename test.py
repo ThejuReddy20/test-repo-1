@@ -1,3 +1,2 @@
-import num
-import os
-
+print "hello"
+print "I am Theju"
