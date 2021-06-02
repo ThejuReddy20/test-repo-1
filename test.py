@@ -1,2 +1,2 @@
 print "hello"
-print "I am Theju"
+print "python task on slave nodes"
